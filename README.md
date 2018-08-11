@@ -1,1 +1,1 @@
-# JavaFXTextEditorEffects
+Text Editor Effects has a field for entering text, setting its background, font size and style, and then creating an image and attaching it to the effects of image glow, shadow, blur, sepia tone, changing image quality, perspective and reflection. The modified image is saved to the computer in the format specified by a file extension.
